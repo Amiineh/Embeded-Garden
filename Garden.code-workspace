@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "TH-Board"
+		},
+		{
+			"path": "Main-Board"
+		},
+		{
+			"path": "Light-Board"
+		}
+	],
+	"settings": {}
+}
